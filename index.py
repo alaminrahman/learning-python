@@ -1,3 +1,16 @@
+
+
+
+# Remove items
+
+# thislist = ["apple", "banana", "cherry"]
+# thislist.remove("banana")
+# del thislist[0]
+# thislist.pop(2)
+# del thislist
+# thislist.clear()
+# print(thislist)
+
 # Concatenate two lists
 
 # items1 = ["apple", "banana", "cherry"] 
